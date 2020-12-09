@@ -1,0 +1,13 @@
+D:\C# projects\CovidTracker\bin\Debug\netcoreapp3.1\CovidTracker.exe
+D:\C# projects\CovidTracker\bin\Debug\netcoreapp3.1\CovidTracker.deps.json
+D:\C# projects\CovidTracker\bin\Debug\netcoreapp3.1\CovidTracker.runtimeconfig.json
+D:\C# projects\CovidTracker\bin\Debug\netcoreapp3.1\CovidTracker.runtimeconfig.dev.json
+D:\C# projects\CovidTracker\bin\Debug\netcoreapp3.1\CovidTracker.dll
+D:\C# projects\CovidTracker\bin\Debug\netcoreapp3.1\CovidTracker.pdb
+D:\C# projects\CovidTracker\obj\Debug\netcoreapp3.1\CovidTracker.csprojAssemblyReference.cache
+D:\C# projects\CovidTracker\obj\Debug\netcoreapp3.1\CovidTracker.AssemblyInfoInputs.cache
+D:\C# projects\CovidTracker\obj\Debug\netcoreapp3.1\CovidTracker.AssemblyInfo.cs
+D:\C# projects\CovidTracker\obj\Debug\netcoreapp3.1\CovidTracker.csproj.CoreCompileInputs.cache
+D:\C# projects\CovidTracker\obj\Debug\netcoreapp3.1\CovidTracker.dll
+D:\C# projects\CovidTracker\obj\Debug\netcoreapp3.1\CovidTracker.pdb
+D:\C# projects\CovidTracker\obj\Debug\netcoreapp3.1\CovidTracker.genruntimeconfig.cache
